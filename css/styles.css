@@ -2,8 +2,12 @@ body{
     background-color: cyan;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
+    display: -moz-grid;
 }
 h1{
     color: rgb(10, 10, 221);
     font-weight: bold;
+}
+div{
+    white-space: 5px;
 }
