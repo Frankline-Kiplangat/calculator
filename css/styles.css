@@ -1,0 +1,9 @@
+body{
+    background-color: cyan;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(10, 10, 221);
+    font-weight: bold;
+}
